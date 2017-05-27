@@ -1,0 +1,74 @@
+[
+  {
+    "category": "Tech",
+    "service": "Phone Repair",
+    "description": "Repair all kinds of phones",
+    "user": "Tan Ah Huat",
+    "price": "$40.00",
+    "rating": 4.43,
+    "image":"http://i.ebayimg.com/00/s/NDI4WDQ5OQ==/z/nIEAAMXQrhdTVkti/$_3.JPG?set_id=2"
+  },
+  {
+    "category":"Tech",
+    "service": "VCR Repair",
+    "description": "Repair your own antique VCRs!",
+    "user": "John Pereira",
+    "price": "$40.00",
+    "rating": 4.56,
+    "image":"https://media4.s-nbcnews.com/j/newscms/2014_02/102936/vcrimage_c1adcec86f3d4a5b09f6987a9abad2cb.nbcnews-ux-2880-1000.jpg"
+  },
+  {
+    "category": "Tech",
+    "service": "SecondHand Laptop",
+    "description": "Secondhand laptops, refurbished and almost new",
+    "user": "Muhammad Ariffudin",
+    "price": "$80.00",
+    "rating": 4.02,
+    "image":"https://sc02.alicdn.com/kf/HTB1kMmbLXXXXXXNXVXXq6xXFXXXr/Used-Laptop-Bulk-Wholesale-Laptop-Lot.jpg"
+  },
+  {
+    "category": "Tech",
+    "service": "Secondhand Phones",
+    "description": "Secondhand phones for cheap prices. Totally not stolen goods. Buy now!",
+    "user": "Tan Nee Greh",
+    "price": "$23.00",
+    "rating": 4.93,
+    "image":"http://www.abuja-ng.com/images/uk-used-phones-and-tablets-at-company-price-up-for-grabs-21807002.jpg"
+  },
+  {
+    "category":"Tech",
+    "service": "Home Appliance Repair",
+    "description": "Repair your steamer, cooker and vacuum cleaner",
+    "user": "Nancy Chew",
+    "price": "$35.00",
+    "rating": 3.72,
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Central_vacuum_system.jpg/170px-Central_vacuum_system.jpg"
+  },
+  {
+    "category":"Tech",
+    "service": "Aircon Repair",
+    "description": "Retired electrician will fix all your aircons",
+    "user": "Prashant Bhagavatula",
+    "price": "$20.00",
+    "rating": 4.14,
+    "image":"http://www.aircon-servicing.com.sg/images/how-to-detect-aircon-gas-leaking-problem3.jpg"
+  },
+  {
+    "category":"Tech",
+    "service": "Beyblade expert",
+    "description": "Beyblade expert will fix all your old beyblades",
+    "user": "Chen Xinzhu",
+    "price": "$55.00",
+    "rating": 4.80,
+    "image":"https://images-na.ssl-images-amazon.com/images/I/7168QC%2B0-gL._SL1200_.jpg"
+  },
+  {
+    "category":"Tech",
+    "service": "Computer Monitor Fix",
+    "description": "Fix all your computer troubles",
+    "user": "Mohammed Fariz",
+    "price": "$12.00",
+    "rating": 4.10,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhcEhlWYMqTN4h3K_LRQqmnwhraOp_FwL51-4kieqmqjBH8urXUw"
+  },
+]

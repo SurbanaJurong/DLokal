@@ -1,0 +1,74 @@
+[
+  {
+    "category": "Food",
+    "service": "Food And Beverage",
+    "description": "Ah Huat Chicken Rice",
+    "user": "Tan Ah Huat",
+    "price": "$4.50",
+    "rating": 4.43,
+    "image":"https://c1.staticflickr.com/9/8761/28619239472_d405b36875_b.jpg"
+  },
+  {
+    "category":"Food",
+    "service": "Fast Food Delivery",
+    "description": "Pereira Hot Dog Service",
+    "user": "John Pereira",
+    "price":"$10.40",
+    "rating": 4.56,
+    "image":"http://8exll2rwl8l1f2ayejq2l9yh.wpengine.netdna-cdn.com/wp-content/uploads/2014/10/hotdog_angus_original.jpg"
+  },
+  {
+    "category": "Food",
+    "service": "Ice Cream Van",
+    "description": "Fast ice-cream delivery to your doorstep",
+    "user": "Muhammad Ariffudin",
+    "price": "14.00",
+    "rating": 4.02,
+    "image":"http://www.gelatogiuliana.com/images/GelatoGiulianaCones.png"
+  },
+  {
+    "category": "Food",
+    "service": "Hot Buns",
+    "description": "Hot and steamed buns of all sizes",
+    "user": "Tan Nee Greh",
+    "price": "40.00",
+    "rating": 4.93,
+    "image":"http://kitchen-tested.com/wp-content/uploads/2012/12/Sweet-Steamed-Buns-Biting-the-Bun.jpg"
+  },
+  {
+    "category":"Food",
+    "service": "Tater Tots Tingkat",
+    "description": "Tingkat to your house, at any time",
+    "user": "Nancy Chew",
+    "price": "20.00",
+    "rating": 3.72,
+    "image":"http://www.empirecatering.com.sg/images/top_pic/tingkat.png"
+  },
+  {
+    "category":"Food",
+    "service": "Sandwich Maker",
+    "description": "Grilled Cheese, and more!",
+    "user": "Prashant Bhagavatula",
+    "price": "15.00",
+    "rating": 4.14,
+    "image":"http://1.bp.blogspot.com/-hOisAYJTwWE/TrCPTTspz9I/AAAAAAAAM8Y/RIqSBVtAx88/s800/The%2BPerfect%2BGrilled%2BCheese%2BSandwich%2B800%2B1581.jpg"
+  },
+  {
+    "category":"Food",
+    "service": "Bubble Tea Provider",
+    "description": "Make your own bubble tea at home!",
+    "user": "Chen Xinzhu",
+    "price": "65.00",
+    "rating": 4.80,
+    "image":"http://img.cookingpanda.com/s3fs-img/styles/670x377/public/recipes/bobamilktea.jpeg?itok=G70tglef"
+  },
+  {
+    "category":"Food",
+    "service": "Japanese Cuisine ",
+    "description": "Japanese Cuisine, any time you want!",
+    "user": "Mohammed Fariz",
+    "price": "30.00",
+    "rating": 4.10,
+    "image":"http://secretsofsushi.com/wp-content/uploads/2014/07/unagi.jpg"
+  },
+]

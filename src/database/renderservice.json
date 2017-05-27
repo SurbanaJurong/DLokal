@@ -1,0 +1,30 @@
+[
+  {
+    "category": "Food",
+    "service": "Food And Beverage",
+    "description": "Ah Huat Chicken Rice",
+    "user": "Tan Ah Huat",
+    "price": "$4.50",
+    "rating": 4,
+    "image":"https://c1.staticflickr.com/9/8761/28619239472_d405b36875_b.jpg"
+  },
+  {
+    "category":"Delivery",
+    "service":"Food Delivery",
+    "description": "Food delivered especially from Ah Huat Chicken Rice",
+    "user": "Tan Ah Huat",
+    "price": "$20.50",
+    "rating":5,
+    "image": "http://www.daviescraddock.co.uk/images/insurance/van-insurance.jpg"
+  },
+  {
+    "category": "Food",
+    "service": "Food And Beverage",
+    "description": "Ah Huat Char Siew",
+    "user": "Tan Ah Huat",
+    "price":"$10.00",
+    "rating": 4,
+    "image":"https://lifeisdelishbytsa.files.wordpress.com/2012/02/char-siew.jpg"
+  }
+
+]
